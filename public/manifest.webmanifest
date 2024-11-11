@@ -1,0 +1,44 @@
+{
+
+    "name": "My Cat PWA",
+
+    "short_name": "Cat PWA",
+
+    "description": "Til alle katteelskere",
+
+    "start_url": "/",
+
+    "display": "standalone",
+
+    "background_color": "#ffffff",
+
+    "theme_color": "#78F0EB",
+
+    "icons": [
+
+     {
+
+      "src": "/icon-192x192.png",
+
+      "sizes": "192x192",
+
+      "type": "image/png",
+
+      "purpose": "any maskable"
+
+     },
+
+     {
+
+      "src": "/icon-512x512.png",
+
+      "sizes": "512x512",
+
+      "type": "image/png",
+
+      "purpose": "any maskable"
+
+     }
+
+    ]
+   }
